@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#1E1E1E"
     android:gravity="center|top"
     android:orientation="vertical"
     tools:context=".MainActivity">
@@ -53,7 +54,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/under_img1"
-            android:textColor="#0F823C"
+            android:textColor="#FFFFFF"
             android:textStyle="bold" />
 
         <TextView
@@ -63,6 +64,7 @@
             android:layout_weight="1"
             android:gravity="right"
             android:text="@string/under_img2"
+            android:textColor="#10873E"
             android:textStyle="bold" />
     </LinearLayout>
 
