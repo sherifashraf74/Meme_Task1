@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MemeTask</string>
+    <string name="head_line">Meme Task</string>
+    <string name="under_img1">Sherif Ashraf Ali</string>
+    <string name="under_img2">Android Developer</string>
+</resources>
